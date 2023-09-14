@@ -4,7 +4,7 @@
 
 ---
 
-- Tribe
+- Tribe - 1000
 - Community
 - Kingdom
 - Realm
