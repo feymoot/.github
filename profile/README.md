@@ -4,10 +4,10 @@
 
 ---
 
-Tribe
-Community
-Kingdom
-Realm
-Nation
-Empire
-Dominion
+- Tribe
+- Community
+- Kingdom
+- Realm
+- Nation
+- Empire
+- Dominion
